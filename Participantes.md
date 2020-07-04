@@ -1,4 +1,3 @@
 # Participantes
-
-- Malinali
 - Eusebio
+- Malinali
