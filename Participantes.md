@@ -1,5 +1,5 @@
 # Participantes
 
-- Daniel
+- Daniel Vargas
 - Cesar 
 - Malinali
