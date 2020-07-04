@@ -1,5 +1,6 @@
 # practica-b42-cintaroja
 
+
 ## Introduccion a Git
 
 - Si ya eres un participante, vas a
@@ -20,3 +21,11 @@
   - se ejecuta cuando queremos traer los cambios del repositorio remoto
   - siempre que trabaj en equipo procuren hacer un pull de la rama principal del trabajo.
   - '''master es el nombre de la rama, siempre verifica de que rama quieres traer los calmbios'''
+
+## Introducción a Git
+
+
+-git status
+-git pull origin master
+-git branch
+
