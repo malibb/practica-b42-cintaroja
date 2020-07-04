@@ -1,4 +1,4 @@
 # Participantes
 
 - Malinali
-- Mali 2
+- Mali-Participante
