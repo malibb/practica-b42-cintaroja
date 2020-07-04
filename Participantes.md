@@ -1,4 +1,6 @@
 # Participantes
 
--Erika
+- Cesar
+- Daniel 
+- Erika
 - Malinali
