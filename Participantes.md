@@ -1,4 +1,4 @@
 # Participantes
 
--Isaac
+- Isaac
 - Malinali
