@@ -1,7 +1,7 @@
 # Participantes
 
--Aza
+- Aza
 - Cesar 
-- Daniel
+- Daniel Vargas
 - Malinali
 - Mali-Participante
