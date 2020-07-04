@@ -2,8 +2,9 @@
 
 - Aza
 - Cesar
-- Daniel Vargas
 - Eusebio
 - Erika
+- Daniel Vargas
+- Isaac
 - Malinali
 - Mali-Participante
