@@ -1,4 +1,3 @@
 # Participantes
 
-- Iliana
 - Malinali
