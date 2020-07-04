@@ -1,6 +1,5 @@
 # Participantes
 
-
-- Aza
-- Angel
+-Aza
+- Cesar 
 - Malinali
